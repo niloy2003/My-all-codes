@@ -2,7 +2,7 @@
 
 int main()
 {
-    int i,n;
+int i,n;
     printf("inter the number  n : ");
 
     scanf("%d",&n);
